@@ -1,0 +1,13 @@
+name: kaggle312
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipykernel
+  - pip
+  - pip:
+      - kaggle
