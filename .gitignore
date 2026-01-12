@@ -41,3 +41,6 @@ venv.bak/
 notebooks/titanics/meta/titanic_train.column_profile.csv
 notebooks/titanics/meta/titanic_train.data_dictionary.md
 notebooks/titanics/meta/titanic_train.schema.yml
+notebooks/utils/pdf_extractor.py
+notebooks/house_price/data
+notebooks/iris/data
